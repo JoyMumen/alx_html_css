@@ -1,6 +1,5 @@
 # Headphones Website
 Welcome to the Headphones Website, a sleek and modern web application designed to showcase the power of audio technology.
-
 ## Overview
 This website is built using HTML, CSS, and a touch of magic. It features a responsive design, making it perfect for viewing on desktop, tablet, or mobile devices. The website is divided into five main sections: Header, Action, What We Do, Our Results, and Contact Us.
 
